@@ -6,7 +6,10 @@ With a good spell check at hand you can quickly identify typos in your documents
 1.	The operating system required is windows operating system.<br>
 2.	Python 3.7 or equivalent version software.<br>
 3.	In this python project, IDLE is used as IDE for execution.<br>
-4.	Command line prompt should be installed on windows to compile and run the program.<br><b>Steps to run the application :<br> </b>
+4.	Command line prompt should be installed on windows to compile and run the program.
+<br>
+<b>Before executing the code make sure that you have installed the modules textblob and tkinter<br></b>If the modules are not installed , use commands to install:<br>1.pip install textblob <br> 2.pip install tkinter in command prompt<br>
+<br><b>Steps to run the application :<br> </b>
 1.create a python file with the above code <br>
 2.Execute the program using command python3 "filename.py" in command prompt
 
